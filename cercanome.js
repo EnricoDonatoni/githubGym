@@ -1,4 +1,5 @@
 var errore;
+\\WAWAWAWAWAWA
 var numeropersone = prompt("Quante persone vuoi inserire?")
 if (numeropersone != parseInt(numeropersone))
 {
